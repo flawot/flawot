@@ -34,6 +34,5 @@
 ---
 
 ### 📱 Соцсети  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/ваша_страница)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FLAW0T)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/flawot)
